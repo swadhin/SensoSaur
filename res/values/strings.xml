@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">aboutContent</string>
+    <string name="app_name">SensoSaur</string>
+    <string name="aboutdesc">aboutdesc</string>
+    <string name="settingsdesc">settingsdesc</string>
+    <string name="Accelerometer">Accelerometer</string>
+    <string name="Magnetometer">Magnetometer</string>
+    <string name="Gyroscope">Gyroscope</string>
+    <string name="Light">Light</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Pressure">Pressure</string>
+    <string name="RotationVector">RotationVector</string>
+    <string name="Linear_Acceleration">Linear_Acceleration</string>
+    <string name="Sound_Level">Sound_Level</string>
+    <string name="Orientation">Orientation</string>
+    <string name="Proximity">Proximity</string>
+    <string name="Gravity">Gravity</string>
+    <string name="Start_Logging">Start_Logging</string>
+    <string name="Stop_Logging">Stop_Logging</string>
+    <string name="rvdesc">rvdesc</string>
+    <string name="proxdesc">proxdesc</string>
+    <string name="tempdesc">tempdesc</string>
+    <string name="ladesc">ladesc</string>
+    <string name="prdesc">prdesc</string>
+    <string name="ordesc">ordesc</string>
+    <string name="infodesc">infodesc</string>
+    <string name="greydesc">greydesc</string>
+    <string name="Logging">Logging</string>
+    <string name="LOGGING">LOGGING</string>
+    <string name="START">START</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="Z">Z</string>
+    <string name="Dist">Dist</string>
+    <string name="Illum">Illum</string>
+    <string name="Temp">Temp</string>
+    <string name="Pr">Pr</string>
+    <string name="dB">dB</string>
+    <string name="g">g</string>
+    <string name="About_SensoSaur">About_SensoSaur</string>
+    <string name="LogDATA">LogDATA</string>
+    <string name="Tick">Tick</string>
+    <string name="Wifi_GPS_NW">Wifi_GPS_NW</string>
+    <string name="Call_State">Call_State</string>
+    <string name="GSM_Cinr">GSM_Cinr</string>
+    <string name="Wifi_State">Wifi_State</string>
+    <string name="AP_Connected">AP_Connected</string>
+    <string name="AP_Con">AP_Con</string>
+    <string name="AP_RSSI">AP_RSSI</string>
+    <string name="AP_Best">AP_Best</string>
+    <string name="log_data_str">LOG DATA ::</string>
+    <string name="Log_Data">Log Data :</string>
+
+</resources>
